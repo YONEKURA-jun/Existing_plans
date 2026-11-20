@@ -1,0 +1,32 @@
+# ビルド成果物・オブジェクトファイル
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+
+# ビルド出力フォルダ（必要に応じて調整）
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio 関連の一時・ユーザー設定
+.vs/
+*.user
+*.suo
+*.tlog
+*.log
+*.lastbuildstate
+
+# OS・エディタの一時ファイル
+.DS_Store
+Thumbs.db
+*.swp
